@@ -49,7 +49,7 @@ pip install flet
 2. Run the `main.py` script to start the application:
 
    ```
-   flet main.py
+   flet flettask.py
    ```
 
 3. The application will open by default default as a desktop application, allowing you to manage your tasks even down to filtering out expired task. It can also be opened as a web application by replacing the last line in the code with 
